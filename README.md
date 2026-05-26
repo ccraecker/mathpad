@@ -1,2 +1,2 @@
-# spelling-bee
-Website for school to practice spelling bee
+# Mathpad
+Application to easily practice and study math related topics.
